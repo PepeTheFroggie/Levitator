@@ -5,6 +5,7 @@ To move the ball i change the phase angle between the transducers.
 40khz, produced by a LGT8F328P. Using timer1 and timer3.
 
 The driver and mechanical ist two $3 aliexpress ultrasonic levitators. I use only the driver and transducer.
-See modified schmatic.
+See modified schmatic. Connection points to LGT8F328P are Gnd, Ain, Bin.
+![schematic](https://github.com/PepeTheFroggie/Levitator/blob/main/schem.png)
 
 Video: https://www.youtube.com/watch?v=jtqRzI3yIdQ
