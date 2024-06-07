@@ -8,6 +8,4 @@ The driver and mechanical ist two $3 aliexpress ultrasonic levitators. I use onl
 See modified schmatic. Connection points to LGT8F328P are Gnd, Ain, Bin.
 ![schematic](https://github.com/PepeTheFroggie/Levitator/blob/main/schem.png)
 
-![video](https://www.youtube.com/watch?v=jtqRzI3yIdQ)
-
 Video: https://www.youtube.com/watch?v=jtqRzI3yIdQ
