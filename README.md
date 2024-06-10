@@ -7,6 +7,7 @@ To move the ball i change the phase angle between the transducers.
 40khz, produced by a LGT8F328P. Using timer1 and timer3.
 
 Video: https://www.youtube.com/watch?v=jtqRzI3yIdQ
+Video showing signal to upper and lower transducer: https://youtu.be/_670pjSexg8
 
 Controls: 
 - 'F' an 'f' to change frequency
